@@ -40,13 +40,23 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] Mention two parts of Express that you learned about this week.
 
+`Express sits on top of Node adding extra functionality . Express also extracts away verbose tasks .`
+
 - [ ] Describe Middleware?
+
+`Middleware is basically an array of functions that get the homies, operate on them, and trigger an action .`
 
 - [ ] Describe a Resource?
 
+``
+
 - [ ] What can the API return to help clients know if a request was successful?
 
+`The API can return a 200 status code .`
+
 - [ ] How can we partition our application into sub-applications?
+
+`You can use express routing to part out an application into smaller modules .`
 
 ## Minimum Viable Product
 
